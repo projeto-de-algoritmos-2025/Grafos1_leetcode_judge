@@ -11,29 +11,17 @@
 ## Sobre 
 Repositório com resoluções de problemas de grafos do [LeetCode](https://leetcode.com/).
 
-## Apresentação 
+## Exercicios
+|Nome | Dificuldade | Código |
+| -- | -- | -- |
+|[2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description) | Hard | [Código](./exercises_leetcode/2360_hard/README.md) |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | Hard | [Código](./exercises_leetcode/124_hard/README.md) |
+| [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Medium | [Código](./exercises_leetcode/785_medium/README.md) |
 
-## Screenshots
+## Apresentação
 
-### Exercício - 124. Binary Tree Maximum Path Sum
-
-Dificuldade: Difícil <br>
-Link: [Clone Graph](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)<br>
-Solução: [Código](exercises_leetcode/124_hard/124_binaryTreeMaximumPathSum.cpp)<br>
-Para resolver esse exercício foi utilizada a busca em profundidade (DFS) para percorrer a árvore binária, calculando recursivamente a maior soma de caminho possível em cada nó e atualizando uma variável global com o maior valor encontrado.
-
-![](exercises_leetcode/124_hard/124_submit.jpeg)
-
-## Instalação 
-**Linguagem**: C++<br>
-
-Você precisará de um compilador C/C++ instalado em seu sistema para utilizar o código localmente ou apenas criar uma conta no [LeetCode](https://leetcode.com/).
 
 ## Uso 
-Para executar o trabalho basta abrir o link do exercício e copiar e colar o código. Se for utilizar localmente siga os seguintes comandos:
-
-`gcc -o nomeArquivo nomeArquivo.c`
-
-`./nomeArquivo`
+Para executar o trabalho basta abrir o link do exercício e copiar e colar o código. Utilize a interface para testar os códigos com os testcases existentes ou personalize-os.
 
 
