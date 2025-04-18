@@ -19,7 +19,7 @@ Repositório com resoluções de problemas de grafos do [LeetCode](https://leetc
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Medium | [Código](./exercises_leetcode/785_medium/README.md) |
 
 ## Apresentação
-
+**Link da apresentação:** [Apresentação](https://youtu.be/N-FpJf8zGks?si=SPV0sB-KU1q7BOGP)
 
 ## Uso 
 Para executar o trabalho basta abrir o link do exercício e copiar e colar o código. Utilize a interface para testar os códigos com os testcases existentes ou personalize-os.
