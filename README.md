@@ -1,6 +1,5 @@
 # Grafos1_leetcode_judge
 
-**Número da Lista**: <br>
 **Conteúdo da Disciplina**: Grafos1<br>
 
 ## Alunos
@@ -18,7 +17,7 @@ Repositório com resoluções de problemas de grafos do [LeetCode](https://leetc
 
 ### Exercício - 124. Binary Tree Maximum Path Sum
 
-Dificuldade: Difício <br>
+Dificuldade: Difícil <br>
 Link: [Clone Graph](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)<br>
 Solução: [Código](exercises_leetcode/124_hard/124_binaryTreeMaximumPathSum.cpp)<br>
 Para resolver esse exercício foi utilizada a busca em profundidade (DFS) para percorrer a árvore binária, calculando recursivamente a maior soma de caminho possível em cada nó e atualizando uma variável global com o maior valor encontrado.
